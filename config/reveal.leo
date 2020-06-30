@@ -410,7 +410,7 @@ vertical: body pane on the botton</t>
 
 
 
-&lt;img src="https://s40723119.github.io/cd2020/images/obs64_2020-04-22_10-18-04.png" height="450" width="750"&gt;</t>
+&lt;img src="https://s40723119.github.io/cd2020/images/2222.png" height="450" width="750"&gt;</t>
 <t tx="leo.20200701020338.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
