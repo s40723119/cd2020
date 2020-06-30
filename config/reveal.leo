@@ -31,6 +31,9 @@
 <v t="leo.20200701013951.4"><vh>cmsimde網站建立</vh>
 <v t="leo.20200701013951.5"><vh>內容</vh></v>
 </v>
+<v t="leo.20200701065532.1"><vh>cmsimde網站建立</vh>
+<v t="leo.20200701065532.2"><vh>內容</vh></v>
+</v>
 <v t="leo.20200701021428.1"><vh>python3.8.2更新</vh>
 <v t="leo.20200701021428.2"><vh>內容</vh></v>
 </v>
@@ -53,6 +56,9 @@
 <v t="leo.20200701014014.1"><vh>分組討論題目</vh>
 <v t="leo.20200701014014.2"><vh>題目一:四輪機器人</vh>
 <v t="leo.20200701014014.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20200701070106.1"><vh>題目一:四輪機器人</vh>
+<v t="leo.20200701070106.2"><vh>內容</vh></v>
 </v>
 <v t="leo.20200701022035.1"><vh>題目二:webots使用</vh>
 <v t="leo.20200701022035.2"><vh>內容</vh></v>
@@ -381,11 +387,11 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200701013951.5">### 建立cmsimde網站
+<t tx="leo.20200701013951.5">### 每周編譯
 
 
 
-&lt;img src="https://s40723119.github.io/cd2020/images/obs64_2020-04-22_10-18-04.png" height="300" width="500"&gt;</t>
+&lt;img src="https://s40723119.github.io/cd2020/images/123.png" height="300" width="500"&gt;</t>
 <t tx="leo.20200701014014.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -400,7 +406,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200701014014.3">###題目一:四輪機器人
+<t tx="leo.20200701014014.3">### 分組題目討論
 
 
 
@@ -435,11 +441,11 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200701021428.2">###python3.8.2更新
+<t tx="leo.20200701021428.2">### python3.8.2更新
 
 
 
-&lt;img src="https://s40723119.github.io/cd2020/images/obs64_2020-04-22_10-18-04.png" height="300" width="500"&gt;</t>
+&lt;img src="https://s40723119.github.io/cd2020/images/789%20(1).png" height="300" width="500"&gt;</t>
 <t tx="leo.20200701021431.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -449,11 +455,11 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200701021431.2">###小組開會分組討論-四輪驅動車
+<t tx="leo.20200701021431.2">### 小組開會分組討論-四輪驅動車
 
 
 
-&lt;img src="https://s40723119.github.io/cd2020/images/obs64_2020-04-22_10-18-04.png" height="300" width="500"&gt;</t>
+&lt;img src="https://s40723119.github.io/cd2020/images/654%20(2).png" height="300" width="500"&gt;</t>
 <t tx="leo.20200701021433.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -463,11 +469,11 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200701021433.2">###架設直播教學網站
+<t tx="leo.20200701021433.2">### 架設直播教學網站
 
 
 
-&lt;img src="https://s40723119.github.io/cd2020/images/obs64_2020-04-22_10-18-04.png" height="300" width="500"&gt;</t>
+&lt;img src="https://s40723119.github.io/cd2020/images/987.png" height="300" width="500"&gt;</t>
 <t tx="leo.20200701021434.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -477,11 +483,11 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200701021434.2">###API帳號設定與OAuthAuth客戶端ID
+<t tx="leo.20200701021434.2">### API帳號設定與OAuthAuth客戶端ID
 
 
 
-&lt;img src="https://s40723119.github.io/cd2020/images/obs64_2020-04-22_10-18-04.png" height="300" width="500"&gt;</t>
+&lt;img src="https://s40723119.github.io/cd2020/images/12345%20(2).png" height="300" width="500"&gt;</t>
 <t tx="leo.20200701021436.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -491,11 +497,11 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200701021436.2">###小組開會分組討論-webots使用
+<t tx="leo.20200701021436.2">### 小組開會分組討論-webots使用
 
 
 
-&lt;img src="https://s40723119.github.io/cd2020/images/obs64_2020-04-22_10-18-04.png" height="300" width="500"&gt;</t>
+&lt;img src="https://s40723119.github.io/cd2020/images/123456.png" height="300" width="500"&gt;</t>
 <t tx="leo.20200701021438.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -505,13 +511,13 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200701021438.2">###VirtualBox虛擬主機設定
+<t tx="leo.20200701021438.2">### VirtualBox虛擬主機設定
 
 
 
 
 
-&lt;img src="https://s40723119.github.io/cd2020/images/obs64_2020-04-22_10-18-04.png" height="300" width="500"&gt;</t>
+&lt;img src="https://s40723119.github.io/cd2020/images/12345%20(1).png" height="300" width="500"&gt;</t>
 <t tx="leo.20200701021911.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -526,11 +532,11 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200701021911.3">###虛擬主機設定
+<t tx="leo.20200701021911.3">### 虛擬主機設定
 
 
 
-&lt;img src="https://s40723119.github.io/cd2020/images/obs64_2020-04-22_10-18-04.png" height="300" width="500"&gt;</t>
+&lt;img src="https://s40723119.github.io/cd2020/images/12345%20(1).png" height="300" width="500"&gt;</t>
 <t tx="leo.20200701022035.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -540,11 +546,11 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200701022035.2">###題目二:webots使用
+<t tx="leo.20200701022035.2">### 題目二:webots使用
 
 
 
-&lt;img src="https://s40723119.github.io/cd2020/images/obs64_2020-04-22_10-18-04.png" height="300" width="500"&gt;</t>
+&lt;img src="https://s40723119.github.io/cd2020/images/123456.png" height="300" width="500"&gt;</t>
 <t tx="leo.20200701022037.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -558,6 +564,34 @@ vertical: body pane on the botton</t>
 
 
 
-&lt;img src="https://s40723119.github.io/cd2020/images/obs64_2020-04-22_10-18-04.png" height="300" width="500"&gt;</t>
+&lt;img src="https://s40723119.github.io/cd2020/images/11111.png" height="300" width="500"&gt;</t>
+<t tx="leo.20200701065532.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20200701065532.2">### 建立cmsimde網站
+
+
+
+&lt;img src="https://s40723119.github.io/cd2020/images/789%20(2).png" height="300" width="500"&gt;</t>
+<t tx="leo.20200701070106.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200701070106.2">### 題目一:四輪機器人
+
+
+
+&lt;img src="https://s40723119.github.io/cd2020/images/654%20(1).png" height="300" width="500"&gt;</t>
 </tnodes>
 </leo_file>
