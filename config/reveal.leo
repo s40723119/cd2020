@@ -21,7 +21,46 @@
 <v t="leo.20180902120523.9"><vh>封面投影片</vh>
 <v t="leo.20180902120523.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180902120523.11"><vh>快捷鍵</vh>
+<v t="leo.20180902120523.11"><vh>期末報告</vh>
+<v t="leo.20200630222458.1"><vh>期末報告</vh>
+<v t="leo.20200630222458.2"><vh>每周紀錄更新</vh></v>
+</v>
+<v t="leo.20200630215335.1"><vh>期末報告</vh>
+<v t="leo.20200630215335.2"><vh>每周紀錄更新</vh></v>
+</v>
+<v t="leo.20200630215331.1"><vh>架設cmsimde網站</vh>
+<v t="leo.20200630215331.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200630222506.1"><vh>python3.8.2更新</vh>
+<v t="leo.20200630222506.2"><vh>每周紀錄更新</vh></v>
+</v>
+<v t="leo.20200630222504.1"><vh>分組題目討論</vh>
+<v t="leo.20200630222504.2"><vh>每周紀錄更新</vh></v>
+</v>
+<v t="leo.20200630222457.1"><vh>分組題目討論</vh>
+<v t="leo.20200630222457.2"><vh>每周紀錄更新</vh></v>
+</v>
+<v t="leo.20200630222455.1"><vh>期末報告</vh>
+<v t="leo.20200630222455.2"><vh>每周紀錄更新</vh></v>
+</v>
+<v t="leo.20200630222453.1"><vh>期末報告</vh>
+<v t="leo.20200630222453.2"><vh>每周紀錄更新</vh></v>
+</v>
+<v t="leo.20200630222452.1"><vh>期末報告</vh>
+<v t="leo.20200630222452.2"><vh>每周紀錄更新</vh></v>
+</v>
+<v t="leo.20200630222450.1"><vh>期末報告</vh>
+<v t="leo.20200630222450.2"><vh>每周紀錄更新</vh></v>
+</v>
+<v t="leo.20200630222448.1"><vh>期末報告</vh>
+<v t="leo.20200630222448.2"><vh>每周紀錄更新</vh></v>
+</v>
+<v t="leo.20200630222441.1"><vh>期末報告</vh>
+<v t="leo.20200630222441.2"><vh>每周紀錄更新</vh></v>
+</v>
+<v t="leo.20200630215327.1"><vh>期末報告</vh>
+<v t="leo.20200630215327.2"><vh>投影片快捷鍵</vh></v>
+</v>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
@@ -50,7 +89,7 @@
 ### 40723119林哲緯
 
 &lt;small&gt;
-網站:[https://s40723119.github.io/cd2020/content/index.html](https://s40723119.github.io/cd2020/content/index.html)
+網站:[https://s40723119.github.io/cd2020/](https://s40723119.github.io/cd2020/)
 &lt;/small&gt;
 
 [倉儲](https://github.com/s40723119/cd2020)
@@ -323,5 +362,157 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="leo.20180902120538.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
+<t tx="leo.20200630215327.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200630215327.2"># 投影片快捷鍵
+
+* 利用箭頭上下前後換頁
+* 按 f 鍵進入全螢幕模式 (full screen)
+* 按 s 鍵可以顯示投影片筆記 (show)
+* 按 o 鍵可以切換單張或全域檢視 (overview)
+* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
+* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+
+</t>
+<t tx="leo.20200630215331.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200630215331.2">#架設cmsimde網站(https://s40723119.github.io/cd2020/content/week1.html)
+</t>
+<t tx="leo.20200630215335.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200630215335.2">#每周紀錄更新(https://s40723119.github.io/cd2020/content/index.html)
+</t>
+<t tx="leo.20200630222441.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200630222441.2"># 
+</t>
+<t tx="leo.20200630222448.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200630222448.2"># 
+</t>
+<t tx="leo.20200630222450.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200630222450.2"># 
+</t>
+<t tx="leo.20200630222452.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200630222452.2"># 
+</t>
+<t tx="leo.20200630222453.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200630222453.2"># 
+</t>
+<t tx="leo.20200630222455.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200630222455.2"># 
+</t>
+<t tx="leo.20200630222457.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200630222457.2">#分組網站(https://s40723138.github.io/cd2020ag4/content/Lidar%20Sensors.html)
+</t>
+<t tx="leo.20200630222458.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200630222458.2">## 期末報告
+</t>
+<t tx="leo.20200630222504.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200630222504.2">#分組題目-四輪驅動車討論(https://s40723138.github.io/cd2020ag4/content/%E5%9B%9B%E8%BC%AA%E6%A9%9F%E5%99%A8%E4%BA%BA.html)
+</t>
+<t tx="leo.20200630222506.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200630222506.2">#python3.8.2更新(https://s40723119.github.io/cd2020/content/week2.html)
+
+</t>
 </tnodes>
 </leo_file>
