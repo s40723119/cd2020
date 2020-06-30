@@ -87,7 +87,7 @@
 </vnodes>
 <tnodes>
 <t tx="leo.20180902120523.1"></t>
-<t tx="leo.20180902120523.10">##協同產品設計實習
+<t tx="leo.20180902120523.10">### 協同產品設計實習
 
 
 
@@ -381,7 +381,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200701013951.5">###建立cmsimde網站
+<t tx="leo.20200701013951.5">### 建立cmsimde網站
 
 
 
@@ -412,15 +412,15 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200701020338.2">###1.每周更新紀錄
+<t tx="leo.20200701020338.2">### 1.每周更新紀錄
 
 
 
-###2.分組討論題目
+### 2.分組討論題目
 
 
 
-###3.VirtualBox
+### 3.VirtualBox
 
 
 
