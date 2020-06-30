@@ -58,9 +58,6 @@
 <v t="leo.20200630222441.1"><vh>期末報告</vh>
 <v t="leo.20200630222441.2"><vh>每周紀錄更新</vh></v>
 </v>
-<v t="leo.20200630215327.1"><vh>期末報告</vh>
-<v t="leo.20200630215327.2"><vh>投影片快捷鍵</vh></v>
-</v>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
@@ -362,25 +359,6 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="leo.20180902120538.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
-<t tx="leo.20200630215327.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20200630215327.2"># 投影片快捷鍵
-
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
-
-</t>
 <t tx="leo.20200630215331.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
