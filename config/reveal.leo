@@ -391,7 +391,7 @@ vertical: body pane on the botton</t>
 
 
 
-&lt;img src="https://s40723119.github.io/cd2020/images/123.png" height="600" width="1000"&gt;</t>
+&lt;img src="https://s40723119.github.io/cd2020/images/123.png" height="450" width="750"&gt;</t>
 <t tx="leo.20200701014014.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -410,17 +410,21 @@ vertical: body pane on the botton</t>
 
 
 
-&lt;img src="https://s40723119.github.io/cd2020/images/obs64_2020-04-22_10-18-04.png" height="600" width="1000"&gt;</t>
-<t tx="leo.20200701020338.1">&lt;section&gt;
+&lt;img src="https://s40723119.github.io/cd2020/images/obs64_2020-04-22_10-18-04.png" height="450" width="750"&gt;</t>
+<t tx="leo.20200701020338.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 @others
+    &lt;/script&gt;
 &lt;/section&gt;
 
-
-						
 </t>
-<t tx="leo.20200701020338.2">### 1.每周更新紀錄
-### 2.分組討論題目
-### 3.VirtualBox
+<t tx="leo.20200701020338.2">### 目錄
+
+1.每周更新紀錄
+
+2.分組討論題目
+
+3.VirtualBox
 
 
 
@@ -439,7 +443,7 @@ vertical: body pane on the botton</t>
 
 
 
-&lt;img src="https://s40723119.github.io/cd2020/images/789%20(1).png" height="600" width="1000"&gt;</t>
+&lt;img src="https://s40723119.github.io/cd2020/images/789%20(1).png" height="450" width="750"&gt;</t>
 <t tx="leo.20200701021431.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -453,7 +457,7 @@ vertical: body pane on the botton</t>
 
 
 
-&lt;img src="https://s40723119.github.io/cd2020/images/654%20(2).png" height="600" width="1000"&gt;</t>
+&lt;img src="https://s40723119.github.io/cd2020/images/654%20(2).png" height="450" width="750"&gt;</t>
 <t tx="leo.20200701021433.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -467,7 +471,7 @@ vertical: body pane on the botton</t>
 
 
 
-&lt;img src="https://s40723119.github.io/cd2020/images/987.png" height="600" width="1000"&gt;</t>
+&lt;img src="https://s40723119.github.io/cd2020/images/987.png" height="450" width="750"&gt;</t>
 <t tx="leo.20200701021434.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -481,7 +485,7 @@ vertical: body pane on the botton</t>
 
 
 
-&lt;img src="https://s40723119.github.io/cd2020/images/12345%20(2).png" height="600" width="1000"&gt;</t>
+&lt;img src="https://s40723119.github.io/cd2020/images/12345%20(2).png" height="450" width="750"&gt;</t>
 <t tx="leo.20200701021436.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -495,7 +499,7 @@ vertical: body pane on the botton</t>
 
 
 
-&lt;img src="https://s40723119.github.io/cd2020/images/123456.png" height="600" width="1000"&gt;</t>
+&lt;img src="https://s40723119.github.io/cd2020/images/123456.png" height="450" width="750"&gt;</t>
 <t tx="leo.20200701021438.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -511,7 +515,7 @@ vertical: body pane on the botton</t>
 
 
 
-&lt;img src="https://s40723119.github.io/cd2020/images/12345%20(1).png" height="600" width="1000"&gt;</t>
+&lt;img src="https://s40723119.github.io/cd2020/images/12345%20(1).png" height="450" width="750"&gt;</t>
 <t tx="leo.20200701021911.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -530,7 +534,7 @@ vertical: body pane on the botton</t>
 
 
 
-&lt;img src="https://s40723119.github.io/cd2020/images/12345%20(1).png" height="600" width="1000"&gt;</t>
+&lt;img src="https://s40723119.github.io/cd2020/images/12345%20(1).png" height="450" width="750"&gt;</t>
 <t tx="leo.20200701022035.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -544,7 +548,7 @@ vertical: body pane on the botton</t>
 
 
 
-&lt;img src="https://s40723119.github.io/cd2020/images/123456.png" height="600" width="1000"&gt;</t>
+&lt;img src="https://s40723119.github.io/cd2020/images/123456.png" height="450" width="750"&gt;</t>
 <t tx="leo.20200701022037.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -558,7 +562,7 @@ vertical: body pane on the botton</t>
 
 
 
-&lt;img src="https://s40723119.github.io/cd2020/images/11111.png" height="600" width="1000"&gt;</t>
+&lt;img src="https://s40723119.github.io/cd2020/images/11111.png" height="450" width="750"&gt;</t>
 <t tx="leo.20200701065532.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -572,7 +576,7 @@ vertical: body pane on the botton</t>
 
 
 
-&lt;img src="https://s40723119.github.io/cd2020/images/789%20(2).png" height="600" width="1000"&gt;</t>
+&lt;img src="https://s40723119.github.io/cd2020/images/789%20(2).png" height="450" width="750"&gt;</t>
 <t tx="leo.20200701070106.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -586,6 +590,6 @@ vertical: body pane on the botton</t>
 
 
 
-&lt;img src="https://s40723119.github.io/cd2020/images/654%20(1).png" height="600" width="1000"&gt;</t>
+&lt;img src="https://s40723119.github.io/cd2020/images/654%20(1).png" height="450" width="750"&gt;</t>
 </tnodes>
 </leo_file>
